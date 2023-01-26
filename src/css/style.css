@@ -53,6 +53,7 @@ button {
      font-family: var(--main-font);
      font-size: 4rem;
      color:white;
+     padding: 0;
 }
 
 button:hover {
